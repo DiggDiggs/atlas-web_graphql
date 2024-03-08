@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../ChristopherDiggs.github.io"
+		},
+		{
+			"name": "atlas-web_back_end",
+			"path": "../atlas-web_back_end"
+		},
+		{
+			"path": "../Ecomerce"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ecomerce"
+	}
+}
