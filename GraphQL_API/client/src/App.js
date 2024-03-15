@@ -15,7 +15,7 @@ function App() {
     div id = "main" >
     <
     div id = "bg" > < /div> <
-    h1 > Holberton school tasks < /h1> <
+    h1 > Atlas school tasks < /h1> <
     TaskList / >
     <
     AddProject / >
